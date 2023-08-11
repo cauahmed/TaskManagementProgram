@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1655553726 source:c:\assignmenthelp\computer science assignments\cprogramming\c assignment\taskmanager\main.c
+	"date.h"
+	"list.h"
+
+1655368606 source:c:\assignmenthelp\computer science assignments\cprogramming\c assignment\taskmanager\date.c
+	"date.h"
+
+1655557606 c:\assignmenthelp\computer science assignments\cprogramming\c assignment\taskmanager\date.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1655470440 source:c:\assignmenthelp\computer science assignments\cprogramming\c assignment\taskmanager\list.c
+	"list.h"
+
+1655557606 c:\assignmenthelp\computer science assignments\cprogramming\c assignment\taskmanager\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdint.h>
+	"date.h"
+
